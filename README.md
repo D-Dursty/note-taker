@@ -7,7 +7,7 @@ Upon reaching the landing page, the user can input a note, when the note is comp
 ## Links
 Repository: https://github.com/D-Dursty/note-taker
 
-Heroku link:
+Heroku link: https://github.com/D-Dursty/note-taker
 
 ## License
 N/A
